@@ -1,0 +1,53 @@
+.topline {
+  background-image: url("c:/users/wong/broadway/resources/images/the-flatiron-building.png");
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+body {
+  text-align: center;
+}
+
+#broad {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#process {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#subprocess, #portfolio, #team, #contact {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.design {
+  background-image: url("c:/users/wong/broadway/resources/images/the-flatiron-building.png");
+  font-family: Helvetica;
+  font-size: 23px;
+  color: white;
+}
+
+h5 {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.tailer {
+  font-size: 18px;
+  color: white;
+}
