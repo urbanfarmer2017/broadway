@@ -1,5 +1,5 @@
 .topline {
-  background-image: url("/users/wong/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   font-family: Helvetica;
   font-size: 18px;
   color: white;
@@ -34,7 +34,7 @@ p {
 }
 
 .design {
-  background-image: url("/users/wong/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   font-family: Helvetica;
   font-size: 23px;
   color: white;
